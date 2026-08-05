@@ -1,0 +1,11 @@
+{
+  "name": "올빼미 몬스터 기어오르기",
+  "description": "청회색·흰색의 치비형 올빼미 몬스터가 벽이나 표면을 기어오르는(climb) 동작.",
+  "width": 128,
+  "height": 32,
+  "frameWidth": 32,
+  "frameHeight": 32,
+  "columns": 4,
+  "rows": 1,
+  "frameCount": 4
+}

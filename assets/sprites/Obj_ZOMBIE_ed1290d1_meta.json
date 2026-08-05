@@ -1,0 +1,11 @@
+{
+  "name": "좀비",
+  "description": "분홍 뇌가 드러난 머리에 어두운 몸통을 한 초록 좀비 오브젝트.",
+  "width": 52,
+  "height": 78,
+  "frameWidth": 52,
+  "frameHeight": 78,
+  "columns": 1,
+  "rows": 1,
+  "frameCount": 1
+}

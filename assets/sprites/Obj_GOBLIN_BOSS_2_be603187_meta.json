@@ -1,0 +1,11 @@
+{
+  "name": "고블린 보스 2",
+  "description": "청록색 뾰족 두건을 쓴 초록 고블린 보스 캐릭터 오브젝트.",
+  "width": 91,
+  "height": 127,
+  "frameWidth": 91,
+  "frameHeight": 127,
+  "columns": 1,
+  "rows": 1,
+  "frameCount": 1
+}
